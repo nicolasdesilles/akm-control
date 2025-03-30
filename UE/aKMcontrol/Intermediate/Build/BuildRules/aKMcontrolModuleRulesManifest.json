@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Source\\aKMcontrol\\aKMcontrol.Build.cs",
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Plugins\\ImGui\\Source\\ImGui\\ImGui.Build.cs",
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Plugins\\ImGui\\Source\\ThirdParty\\ImGuiLibrary\\ImGuiLibrary.Build.cs",
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Plugins\\ImGui\\Source\\ThirdParty\\ImPlotLibrary\\ImPlotLibrary.Build.cs",
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Plugins\\ImGui\\Source\\ThirdParty\\NetImGuiLibrary\\NetImGuiLibrary.Build.cs",
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Source\\aKMcontrol.Target.cs",
+		"C:\\Users\\nicol\\Documents\\aKMdev\\akm-control\\UE\\aKMcontrol\\Source\\aKMcontrolEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

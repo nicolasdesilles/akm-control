@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\unrealeditor\\inc\\akmcontrol\\uht\\imguiactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\akmcontroleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\akmcontrol\\definitions.akmcontrol.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\source\\akmcontrol\\public\\imguiactor.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\thirdparty\\imguilibrary\\imgui.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\imgui\\public\\imguiconfig.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\thirdparty\\imguilibrary\\imconfig.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\imgui\\public\\imguiconfig.inl",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\unrealeditor\\inc\\akmcontrol\\uht\\imguiactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

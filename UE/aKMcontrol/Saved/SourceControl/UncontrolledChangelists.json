@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Maps/Main_P.umap",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Core/UI/BP_ImGUI.uasset"
+			]
+		}
+	]
+}

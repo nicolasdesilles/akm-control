@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "aKMcontrol",
+			"Path": "..\\Source\\aKMcontrol.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "aKMcontrolEditor",
+			"Path": "..\\Source\\aKMcontrolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

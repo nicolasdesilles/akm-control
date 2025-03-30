@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\akmcontrol\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\akmcontroleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\akmcontrol\\definitions.akmcontrol.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
