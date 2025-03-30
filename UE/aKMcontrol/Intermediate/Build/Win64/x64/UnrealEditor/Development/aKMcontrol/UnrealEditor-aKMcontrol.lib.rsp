@@ -7,10 +7,7 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\aKMcontrolEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\aKMcontrol.init.gen.cpp.obj"
-"C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\ImGuiActor.gen.cpp.obj"
 "C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\aKMcontrol.cpp.obj"
-"C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\ImGuiActor.cpp.obj"
 "C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\PerModuleInline.gen.cpp.obj"
 "C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\Default.rc2.res"
 /OUT:"C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Intermediate\Build\Win64\x64\UnrealEditor\Development\aKMcontrol\UnrealEditor-aKMcontrol.lib"

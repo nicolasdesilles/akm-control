@@ -15,10 +15,6 @@
     <ProjectReference Include="..\..\..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj"><Private>false</Private></ProjectReference>
   </ItemGroup>
   <ItemGroup>
-  <Compile Include="..\..\..\..\Plugins\ImGui\Source\ImGui\ImGui.Build.cs"><Link>Plugins\ImGui\Source\ImGui\ImGui.Build.cs</Link></Compile>
-  <Compile Include="..\..\..\..\Plugins\ImGui\Source\ThirdParty\ImGuiLibrary\ImGuiLibrary.Build.cs"><Link>Plugins\ImGui\Source\ThirdParty\ImGuiLibrary\ImGuiLibrary.Build.cs</Link></Compile>
-  <Compile Include="..\..\..\..\Plugins\ImGui\Source\ThirdParty\ImPlotLibrary\ImPlotLibrary.Build.cs"><Link>Plugins\ImGui\Source\ThirdParty\ImPlotLibrary\ImPlotLibrary.Build.cs</Link></Compile>
-  <Compile Include="..\..\..\..\Plugins\ImGui\Source\ThirdParty\NetImGuiLibrary\NetImGuiLibrary.Build.cs"><Link>Plugins\ImGui\Source\ThirdParty\NetImGuiLibrary\NetImGuiLibrary.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\aKMcontrol.Target.cs"><Link>Source\aKMcontrol.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\aKMcontrolEditor.Target.cs"><Link>Source\aKMcontrolEditor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\aKMcontrol\aKMcontrol.Build.cs"><Link>Source\aKMcontrol\aKMcontrol.Build.cs</Link></Compile>

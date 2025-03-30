@@ -9,7 +9,6 @@ public class aKMcontrol : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" });
-		PublicDependencyModuleNames.Add("ImGui");
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
