@@ -25,3 +25,9 @@ void ASourceActor::Tick(float DeltaTime)
 
 }
 
+FString ASourceActor::GetName()
+{
+	return Name;
+}
+
+

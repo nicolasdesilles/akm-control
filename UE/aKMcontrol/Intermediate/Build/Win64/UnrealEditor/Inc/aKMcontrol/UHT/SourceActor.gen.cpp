@@ -16,9 +16,62 @@ ENGINE_API UClass* Z_Construct_UClass_AActor();
 UPackage* Z_Construct_UPackage__Script_aKMcontrol();
 // End Cross Module References
 
+// Begin Class ASourceActor Function GetName
+struct Z_Construct_UFunction_ASourceActor_GetName_Statics
+{
+	struct SourceActor_eventGetName_Parms
+	{
+		FString ReturnValue;
+	};
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "Category", "Getters" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "// Getter Functions\n" },
+#endif
+		{ "ModuleRelativePath", "SourceActor.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "Getter Functions" },
+#endif
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FStrPropertyParams NewProp_ReturnValue;
+	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FStrPropertyParams Z_Construct_UFunction_ASourceActor_GetName_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(SourceActor_eventGetName_Parms, ReturnValue), METADATA_PARAMS(0, nullptr) };
+const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ASourceActor_GetName_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ASourceActor_GetName_Statics::NewProp_ReturnValue,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_ASourceActor_GetName_Statics::PropPointers) < 2048);
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ASourceActor_GetName_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASourceActor, nullptr, "GetName", nullptr, nullptr, Z_Construct_UFunction_ASourceActor_GetName_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ASourceActor_GetName_Statics::PropPointers), sizeof(Z_Construct_UFunction_ASourceActor_GetName_Statics::SourceActor_eventGetName_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ASourceActor_GetName_Statics::Function_MetaDataParams), Z_Construct_UFunction_ASourceActor_GetName_Statics::Function_MetaDataParams) };
+static_assert(sizeof(Z_Construct_UFunction_ASourceActor_GetName_Statics::SourceActor_eventGetName_Parms) < MAX_uint16);
+UFunction* Z_Construct_UFunction_ASourceActor_GetName()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_ASourceActor_GetName_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+DEFINE_FUNCTION(ASourceActor::execGetName)
+{
+	P_FINISH;
+	P_NATIVE_BEGIN;
+	*(FString*)Z_Param__Result=P_THIS->GetName();
+	P_NATIVE_END;
+}
+// End Class ASourceActor Function GetName
+
 // Begin Class ASourceActor
 void ASourceActor::StaticRegisterNativesASourceActor()
 {
+	UClass* Class = ASourceActor::StaticClass();
+	static const FNameNativePtrPair Funcs[] = {
+		{ "GetName", &ASourceActor::execGetName },
+	};
+	FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 }
 IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(ASourceActor);
 UClass* Z_Construct_UClass_ASourceActor_NoRegister()
@@ -34,12 +87,22 @@ struct Z_Construct_UClass_ASourceActor_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Name_MetaData[] = {
 		{ "Category", "Settings" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "// Variables\n" },
+#endif
 		{ "ModuleRelativePath", "SourceActor.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "Variables" },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FStrPropertyParams NewProp_Name;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
+	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
+		{ &Z_Construct_UFunction_ASourceActor_GetName, "GetName" }, // 2538657164
+	};
+	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ASourceActor>::IsAbstract,
 	};
@@ -60,11 +123,11 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_ASourceActor_Statics::C
 	"Engine",
 	&StaticCppClassTypeInfo,
 	DependentSingletons,
-	nullptr,
+	FuncInfo,
 	Z_Construct_UClass_ASourceActor_Statics::PropPointers,
 	nullptr,
 	UE_ARRAY_COUNT(DependentSingletons),
-	0,
+	UE_ARRAY_COUNT(FuncInfo),
 	UE_ARRAY_COUNT(Z_Construct_UClass_ASourceActor_Statics::PropPointers),
 	0,
 	0x009000A4u,
@@ -90,10 +153,10 @@ ASourceActor::~ASourceActor() {}
 struct Z_CompiledInDeferFile_FID_Users_nicol_Documents_aKMdev_akm_control_UE_aKMcontrol_Source_aKMcontrol_SourceActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ASourceActor, ASourceActor::StaticClass, TEXT("ASourceActor"), &Z_Registration_Info_UClass_ASourceActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASourceActor), 462625351U) },
+		{ Z_Construct_UClass_ASourceActor, ASourceActor::StaticClass, TEXT("ASourceActor"), &Z_Registration_Info_UClass_ASourceActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASourceActor), 2613959370U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_nicol_Documents_aKMdev_akm_control_UE_aKMcontrol_Source_aKMcontrol_SourceActor_h_2732321975(TEXT("/Script/aKMcontrol"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_nicol_Documents_aKMdev_akm_control_UE_aKMcontrol_Source_aKMcontrol_SourceActor_h_1914068184(TEXT("/Script/aKMcontrol"),
 	Z_CompiledInDeferFile_FID_Users_nicol_Documents_aKMdev_akm_control_UE_aKMcontrol_Source_aKMcontrol_SourceActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_nicol_Documents_aKMdev_akm_control_UE_aKMcontrol_Source_aKMcontrol_SourceActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -6,9 +6,6 @@
 #include "GameFramework/Actor.h"
 #include "SourceActor.generated.h"
 
-class USceneComponent;
-class USCS_Node;
-
 UCLASS()
 class AKMCONTROL_API ASourceActor : public AActor
 {
@@ -25,10 +22,14 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
-	// Properties
+	
+	// Variables
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Settings")
 	FString Name;
 
+	// Getter Functions
+	UFUNCTION(BlueprintCallable, Category = "Getters")
+	FString GetName();
+	
 };

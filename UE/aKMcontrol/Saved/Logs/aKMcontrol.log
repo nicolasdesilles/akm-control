@@ -2929,3 +2929,852 @@ Sampler Limit: 32
 [2025.04.17-20.33.40:243][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.17-20.33.40:243][904]AssetCheck: /Game/LAPLANQUE_ND/Maps/Main_P Validating asset
 [2025.04.17-20.36.05:406][557]LogDerivedDataCache: C:/Users/nicol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.17-20.39.08:248][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3891.608887
+[2025.04.17-20.39.08:415][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-20.39.08:415][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3891.758789, Update Interval: 341.745667
+[2025.04.17-20.45.46:027][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4289.354492
+[2025.04.17-20.45.46:178][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-20.45.46:178][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4289.487305, Update Interval: 338.101746
+[2025.04.17-20.52.12:931][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4676.200195
+[2025.04.17-20.52.13:098][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-20.52.13:098][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4676.350586, Update Interval: 345.554382
+[2025.04.17-20.58.44:015][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5067.276367
+[2025.04.17-20.58.44:182][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-20.58.44:182][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5067.427246, Update Interval: 359.739990
+[2025.04.17-21.01.31:166][948]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.01.40:057][476]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_11.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_11.exp
+[2025.04.17-21.01.40:136][477]LogClass: UPackage /Script/aKMcontrol Reload.
+[2025.04.17-21.01.40:136][477]LogClass: UClass SourceActor Reload.
+[2025.04.17-21.01.40:138][477]LogClass: Could not find existing class SourceActor in package /Script/aKMcontrol for reload, assuming new or modified class
+[2025.04.17-21.01.40:144][477]Re-instancing SourceActor after reload.
+[2025.04.17-21.01.40:290][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.17-21.01.40:656][478]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged, 1 function remapped
+[2025.04.17-21.01.40:656][478]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.17-21.02.34:410][607]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.02.40:756][982]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_12.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_12.exp
+[2025.04.17-21.02.40:854][983]LogClass: UPackage /Script/aKMcontrol Reload.
+[2025.04.17-21.02.40:854][983]LogClass: UClass SourceActor Reload.
+[2025.04.17-21.02.40:857][983]LogClass: Could not find existing class SourceActor in package /Script/aKMcontrol for reload, assuming new or modified class
+[2025.04.17-21.02.40:864][983]Re-instancing SourceActor after reload.
+[2025.04.17-21.02.41:140][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.17-21.02.41:518][984]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged, 1 function remapped
+[2025.04.17-21.02.41:519][984]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.17-21.02.53:955][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-21.02.54:094][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.17-21.02.54:098][687]LogSavePackage: Moving output files for package: /Game/LAPLANQUE_ND/Maps/Main_P
+[2025.04.17-21.02.54:099][687]LogSavePackage: Moving '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Saved/Main_PD107990E40926C7F3FFC1BB8057021D0.tmp' to '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Maps/Main_P.umap'
+[2025.04.17-21.02.54:104][687]LogFileHelpers: Saving map 'Main_P' took 0.092
+[2025.04.17-21.02.54:109][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.623 ms (total: 1.54 sec)
+[2025.04.17-21.02.54:140][687]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-21.02.54:140][687]LogContentValidation: Enabled validators:
+[2025.04.17-21.02.54:140][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-21.02.54:140][687]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-21.02.54:140][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-21.02.54:140][687]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-21.02.54:140][687]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-21.02.54:140][687]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-21.02.54:140][687]AssetCheck: /Game/LAPLANQUE_ND/Maps/Main_P Validating asset
+[2025.04.17-21.03.28:299][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.17-21.03.29:842][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-21.03.29:895][760]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LAPLANQUE_ND/Blueprints/BP_Source] ([2] browsable assets)...
+[2025.04.17-21.03.29:939][760]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source]
+[2025.04.17-21.03.29:939][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/LAPLANQUE_ND/Blueprints/BP_Source]
+[2025.04.17-21.03.29:940][760]LogWorldPartition: Can't find class descriptor '/Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C' for saving '/Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C'
+[2025.04.17-21.03.29:940][760]LogWorldPartition: Can't find class descriptor '/Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C' for saving '/Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C'
+[2025.04.17-21.03.29:941][760]LogSavePackage: Moving output files for package: /Game/LAPLANQUE_ND/Blueprints/BP_Source
+[2025.04.17-21.03.29:942][760]LogSavePackage: Moving '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Saved/BP_Source95A7FBBE49229978E2CE578CB34EFF78.tmp' to '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Blueprints/BP_Source.uasset'
+[2025.04.17-21.03.29:946][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.942 ms (total: 1.64 sec)
+[2025.04.17-21.03.29:992][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-21.03.29:992][760]LogContentValidation: Enabled validators:
+[2025.04.17-21.03.29:992][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-21.03.29:992][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-21.03.29:992][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-21.03.29:992][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-21.03.29:992][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-21.03.29:992][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-21.03.29:992][760]AssetCheck: /Game/LAPLANQUE_ND/Blueprints/BP_Source Validating asset
+[2025.04.17-21.03.50:418][924]Cmd: EDIT COPY
+[2025.04.17-21.03.50:772][945]Cmd: EDIT PASTE
+[2025.04.17-21.03.53:037][ 74]Cmd: TRANSACTION UNDO
+[2025.04.17-21.03.53:037][ 74]LogEditorTransaction: Undo Paste Components
+[2025.04.17-21.03.55:075][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C
+[2025.04.17-21.03.55:075][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C
+[2025.04.17-21.03.55:076][155]LogActorFactory: Actor Factory spawned Blueprint /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source as actor: BP_Source_C /Game/LAPLANQUE_ND/Maps/Main_P.Main_P:PersistentLevel.BP_Source_C_2
+[2025.04.17-21.03.55:077][155]LogActorFactory: Actor Factory spawned Blueprint /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source as actor: BP_Source_C /Game/LAPLANQUE_ND/Maps/Main_P.Main_P:PersistentLevel.BP_Source_C_2
+[2025.04.17-21.03.55:376][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.17-21.03.55:401][166]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.04.17-21.03.55:410][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C
+[2025.04.17-21.03.55:410][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source_C
+[2025.04.17-21.03.55:412][166]LogActorFactory: Actor Factory spawned Blueprint /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source as actor: BP_Source_C /Game/LAPLANQUE_ND/Maps/Main_P.Main_P:PersistentLevel.BP_Source_C_3
+[2025.04.17-21.03.55:412][166]LogActorFactory: Actor Factory spawned Blueprint /Game/LAPLANQUE_ND/Blueprints/BP_Source.BP_Source as actor: BP_Source_C /Game/LAPLANQUE_ND/Maps/Main_P.Main_P:PersistentLevel.BP_Source_C_3
+[2025.04.17-21.04.16:104][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-21.04.16:184][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.17-21.04.16:190][371]LogSavePackage: Moving output files for package: /Game/LAPLANQUE_ND/Maps/Main_P
+[2025.04.17-21.04.16:190][371]LogSavePackage: Moving '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Saved/Main_PCA6823334065B78412FCB19B31FB3630.tmp' to '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Maps/Main_P.umap'
+[2025.04.17-21.04.16:196][371]LogFileHelpers: Saving map 'Main_P' took 0.038
+[2025.04.17-21.04.16:200][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.739 ms (total: 1.74 sec)
+[2025.04.17-21.04.16:257][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-21.04.16:257][371]LogContentValidation: Enabled validators:
+[2025.04.17-21.04.16:257][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-21.04.16:257][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-21.04.16:257][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-21.04.16:257][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-21.04.16:257][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-21.04.16:257][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-21.04.16:258][371]AssetCheck: /Game/LAPLANQUE_ND/Maps/Main_P Validating asset
+[2025.04.17-21.04.21:172][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.04.21:176][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.04.21:176][661]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.04.21:178][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001030s)
+[2025.04.17-21.04.21:178][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.001063s)
+[2025.04.17-21.04.21:191][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.17-21.04.21:192][661]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.04.21:193][661]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2025.04.17-21.04.21:194][661]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.04.21:194][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.04.21:194][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.04.21:194][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.04.21:194][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.04.21:194][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.04.21:196][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.04.21:235][661]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.04.21:235][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.04.21:235][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.04.21:235][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.04.21:235][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.04.17-21.04.21:235][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.04.17-21.04.21:238][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.04.17-21.04.21:238][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.04.17-21.04.21:238][661]LogInit: FAudioDevice initialized with ID 14.
+[2025.04.17-21.04.21:238][661]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main_P'.
+[2025.04.17-21.04.21:238][661]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.04.17-21.04.21:241][661]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.04.21:241][661]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.04.21
+[2025.04.17-21.04.21:242][661]LogWorld: Bringing up level for play took: 0.000539
+[2025.04.17-21.04.21:243][661]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.04.17-21.04.21:245][661]PIE: Server logged in
+[2025.04.17-21.04.21:245][661]PIE: Play in editor total start time 0.069 seconds.
+[2025.04.17-21.04.25:908][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.04.25:908][856]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.04.25:908][856]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.04.25:909][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.04.25:914][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.04.25:916][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.04.25:932][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.04.25:932][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.04.17-21.04.25:932][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.04.17-21.04.25:935][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.04.17-21.04.25:939][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.17-21.04.26:501][863]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.04.17-21.05.43:866][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5487.066895
+[2025.04.17-21.05.44:017][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.05.44:017][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5487.202637, Update Interval: 355.764648
+[2025.04.17-21.07.50:118][ 64]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.07.55:950][409]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_13.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_13.exp
+[2025.04.17-21.07.56:049][410]LogClass: UPackage /Script/aKMcontrol Reload.
+[2025.04.17-21.07.56:049][410]LogClass: UClass SourceActor Reload.
+[2025.04.17-21.07.56:050][410]LogClass: Could not find existing class SourceActor in package /Script/aKMcontrol for reload, assuming new or modified class
+[2025.04.17-21.07.56:050][410]LogClass: Function GetName is new or belongs to a modified class.
+[2025.04.17-21.07.56:056][410]Re-instancing SourceActor after reload.
+[2025.04.17-21.07.56:206][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.17-21.07.56:585][411]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged, 1 function remapped
+[2025.04.17-21.07.56:585][411]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.17-21.08.17:733][651]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.08.21:342][866]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_14.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_14.exp
+[2025.04.17-21.08.21:603][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.17-21.08.21:933][867]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.08.21:933][867]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.08.38:729][851]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.08.42:155][ 55]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_15.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_15.exp
+[2025.04.17-21.08.42:459][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.04.17-21.08.42:795][ 57]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.08.42:795][ 57]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.08.44:631][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.08.44:636][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.08.44:636][133]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.08.44:637][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
+[2025.04.17-21.08.44:637][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000946s)
+[2025.04.17-21.08.44:689][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.17-21.08.44:698][133]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.08.44:699][133]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2025.04.17-21.08.44:700][133]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.08.44:700][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.08.44:700][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.08.44:700][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.08.44:700][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.08.44:700][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.08.44:702][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.08.44:734][133]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.08.44:734][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.08.44:734][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.08.44:734][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.08.44:735][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.04.17-21.08.44:735][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.04.17-21.08.44:737][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.04.17-21.08.44:737][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.04.17-21.08.44:737][133]LogInit: FAudioDevice initialized with ID 15.
+[2025.04.17-21.08.44:737][133]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main_P'.
+[2025.04.17-21.08.44:737][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.04.17-21.08.44:741][133]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.08.44:741][133]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.08.44
+[2025.04.17-21.08.44:741][133]LogWorld: Bringing up level for play took: 0.000634
+[2025.04.17-21.08.44:743][133]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.04.17-21.08.44:745][133]PIE: Server logged in
+[2025.04.17-21.08.44:746][133]PIE: Play in editor total start time 0.11 seconds.
+[2025.04.17-21.08.51:092][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.08.51:092][433]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.08.51:092][433]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.08.51:092][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.08.51:097][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.08.51:100][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.08.51:115][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.08.51:115][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.04.17-21.08.51:115][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.04.17-21.08.51:117][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.04.17-21.08.51:120][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.08.51:123][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.17-21.08.52:230][440]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.04.17-21.08.56:359][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-21.08.56:440][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.04.17-21.08.56:444][657]LogSavePackage: Moving output files for package: /Game/LAPLANQUE_ND/Maps/Main_P
+[2025.04.17-21.08.56:445][657]LogSavePackage: Moving '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Saved/Main_P0E3BEDD64F349E7AB529808D642CC275.tmp' to '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Maps/Main_P.umap'
+[2025.04.17-21.08.56:450][657]LogFileHelpers: Saving map 'Main_P' took 0.032
+[2025.04.17-21.08.56:454][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.889 ms (total: 1.84 sec)
+[2025.04.17-21.08.56:505][657]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-21.08.56:505][657]LogContentValidation: Enabled validators:
+[2025.04.17-21.08.56:505][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-21.08.56:505][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-21.08.56:505][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-21.08.56:505][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-21.08.56:505][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-21.08.56:505][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-21.08.56:505][657]AssetCheck: /Game/LAPLANQUE_ND/Maps/Main_P Validating asset
+[2025.04.17-21.08.57:259][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.08.57:263][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.08.57:263][695]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.08.57:264][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000831s)
+[2025.04.17-21.08.57:264][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000858s)
+[2025.04.17-21.08.57:274][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.17-21.08.57:275][695]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.08.57:276][695]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2025.04.17-21.08.57:277][695]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.08.57:277][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.08.57:277][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.08.57:277][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.08.57:277][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.08.57:277][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.08.57:279][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.08.57:311][695]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.08.57:311][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.08.57:311][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.08.57:311][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.08.57:311][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.04.17-21.08.57:311][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.04.17-21.08.57:314][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.04.17-21.08.57:314][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.04.17-21.08.57:314][695]LogInit: FAudioDevice initialized with ID 16.
+[2025.04.17-21.08.57:314][695]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main_P'.
+[2025.04.17-21.08.57:314][695]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.17-21.08.57:316][695]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.08.57:317][695]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.08.57
+[2025.04.17-21.08.57:317][695]LogWorld: Bringing up level for play took: 0.000580
+[2025.04.17-21.08.57:318][695]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.04.17-21.08.57:321][695]PIE: Server logged in
+[2025.04.17-21.08.57:322][695]PIE: Play in editor total start time 0.058 seconds.
+[2025.04.17-21.09.06:550][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.09.06:550][172]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.09.06:550][172]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.09.06:550][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.09.06:553][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.09.06:555][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.09.06:570][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.09.06:570][172]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.17-21.09.06:570][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.17-21.09.06:572][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.17-21.09.06:576][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.17-21.09.07:291][179]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.04.17-21.10.20:363][555]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.10.24:649][811]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.04.17-21.10.24:649][811]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.04.17-21.10.38:818][639]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.10.42:885][881]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.04.17-21.10.42:885][881]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.04.17-21.12.13:810][311]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.12.18:671][601]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_16.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_16.exp
+[2025.04.17-21.12.18:882][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.17-21.12.19:226][603]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.12.19:226][603]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.12.21:583][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5884.726562
+[2025.04.17-21.12.21:733][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.12.21:733][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5884.860352, Update Interval: 313.835876
+[2025.04.17-21.12.22:115][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.12.22:120][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.12.22:121][720]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.12.22:121][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000866s)
+[2025.04.17-21.12.22:121][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000893s)
+[2025.04.17-21.12.22:167][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.17-21.12.22:171][720]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.12.22:172][720]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2025.04.17-21.12.22:174][720]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.12.22:174][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.12.22:174][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.12.22:174][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.12.22:174][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.12.22:174][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.12.22:175][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.12.22:207][720]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.12.22:208][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.12.22:208][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.12.22:208][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.12.22:208][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.04.17-21.12.22:208][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.04.17-21.12.22:211][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.04.17-21.12.22:211][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.04.17-21.12.22:211][720]LogInit: FAudioDevice initialized with ID 17.
+[2025.04.17-21.12.22:211][720]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_P'.
+[2025.04.17-21.12.22:211][720]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.04.17-21.12.22:213][720]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.12.22:214][720]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.12.22
+[2025.04.17-21.12.22:214][720]LogWorld: Bringing up level for play took: 0.000565
+[2025.04.17-21.12.22:215][720]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.04.17-21.12.22:217][720]PIE: Server logged in
+[2025.04.17-21.12.22:218][720]PIE: Play in editor total start time 0.098 seconds.
+[2025.04.17-21.12.27:457][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.12.27:457][942]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.12.27:457][942]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.12.27:458][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.12.27:462][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.12.27:464][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.12.27:484][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.12.27:489][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.04.17-21.12.27:489][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.04.17-21.12.27:491][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.04.17-21.12.27:494][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.12.27:504][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.17-21.12.28:283][949]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.04.17-21.17.19:171][309]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.17.24:238][609]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.04.17-21.17.24:238][609]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.04.17-21.18.33:411][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6256.542969
+[2025.04.17-21.18.33:577][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.18.33:578][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6256.691895, Update Interval: 349.229401
+[2025.04.17-21.18.59:939][319]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.19.03:367][524]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_17.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_17.exp
+[2025.04.17-21.19.03:462][525]LogClass: UPackage /Script/aKMcontrol Reload.
+[2025.04.17-21.19.03:462][525]LogClass: UClass SourceActor Reload.
+[2025.04.17-21.19.03:464][525]LogClass: Could not find existing class SourceActor in package /Script/aKMcontrol for reload, assuming new or modified class
+[2025.04.17-21.19.03:464][525]LogClass: Function GetLocation is new or belongs to a modified class.
+[2025.04.17-21.19.03:464][525]LogClass: Function GetName is new or belongs to a modified class.
+[2025.04.17-21.19.03:469][525]Re-instancing SourceActor after reload.
+[2025.04.17-21.19.03:618][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.17-21.19.03:986][526]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged, 1 function remapped
+[2025.04.17-21.19.03:987][526]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.17-21.19.05:775][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.19.05:780][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.19.05:780][571]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.19.05:781][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001055s)
+[2025.04.17-21.19.05:781][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.001085s)
+[2025.04.17-21.19.05:831][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.17-21.19.05:835][571]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.19.05:837][571]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2025.04.17-21.19.05:837][571]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.19.05:837][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.19.05:837][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.19.05:837][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.19.05:837][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.19.05:837][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.19.05:840][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.19.05:873][571]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.19.05:873][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.19.05:873][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.19.05:873][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.19.05:874][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.04.17-21.19.05:874][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.04.17-21.19.05:876][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.04.17-21.19.05:876][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.04.17-21.19.05:876][571]LogInit: FAudioDevice initialized with ID 18.
+[2025.04.17-21.19.05:876][571]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_P'.
+[2025.04.17-21.19.05:876][571]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.04.17-21.19.05:879][571]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.19.05:879][571]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.19.05
+[2025.04.17-21.19.05:879][571]LogWorld: Bringing up level for play took: 0.000569
+[2025.04.17-21.19.05:882][571]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.04.17-21.19.05:883][571]PIE: Server logged in
+[2025.04.17-21.19.05:884][571]PIE: Play in editor total start time 0.104 seconds.
+[2025.04.17-21.19.13:511][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.19.13:511][917]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.19.13:511][917]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.19.13:511][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.19.13:515][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.19.13:517][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.19.13:528][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.19.13:533][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.04.17-21.19.13:533][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.04.17-21.19.13:535][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.04.17-21.19.13:538][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.19.13:550][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.17-21.19.14:381][924]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.04.17-21.20.40:624][ 85]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.20.45:731][390]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_18.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_18.exp
+[2025.04.17-21.20.45:943][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.17-21.20.46:285][392]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 3 functions remapped
+[2025.04.17-21.20.46:285][392]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.20.48:640][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.20.48:645][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.20.48:645][489]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.20.48:646][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000901s)
+[2025.04.17-21.20.48:646][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000930s)
+[2025.04.17-21.20.48:699][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.17-21.20.48:702][489]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.20.48:704][489]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2025.04.17-21.20.48:704][489]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.20.48:704][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.20.48:704][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.20.48:704][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.20.48:704][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.20.48:704][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.20.48:706][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.20.48:738][489]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.20.48:738][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.20.48:738][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.20.48:738][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.20.48:738][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.04.17-21.20.48:738][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.04.17-21.20.48:740][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.04.17-21.20.48:740][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.04.17-21.20.48:740][489]LogInit: FAudioDevice initialized with ID 19.
+[2025.04.17-21.20.48:740][489]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main_P'.
+[2025.04.17-21.20.48:741][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.04.17-21.20.48:744][489]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.20.48:744][489]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.20.48
+[2025.04.17-21.20.48:744][489]LogWorld: Bringing up level for play took: 0.000580
+[2025.04.17-21.20.48:746][489]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.04.17-21.20.48:748][489]PIE: Server logged in
+[2025.04.17-21.20.48:748][489]PIE: Play in editor total start time 0.104 seconds.
+[2025.04.17-21.20.53:514][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.20.53:514][694]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.20.53:514][694]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.20.53:515][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.20.53:518][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.20.53:522][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.20.53:542][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.20.53:548][694]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.04.17-21.20.53:548][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.04.17-21.20.53:550][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.04.17-21.20.53:554][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.20.53:566][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.17-21.20.54:125][701]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.04.17-21.22.12:900][412]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.22.17:471][685]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_19.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_19.exp
+[2025.04.17-21.22.17:669][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.17-21.22.18:022][687]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 3 functions remapped
+[2025.04.17-21.22.18:022][687]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.22.20:484][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.22.20:488][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.22.20:489][778]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.22.20:489][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000902s)
+[2025.04.17-21.22.20:489][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000932s)
+[2025.04.17-21.22.20:539][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.17-21.22.20:542][778]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.22.20:544][778]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2025.04.17-21.22.20:544][778]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.22.20:544][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.22.20:544][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.22.20:544][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.22.20:544][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.22.20:544][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.22.20:546][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.22.20:578][778]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.22.20:579][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.22.20:579][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.22.20:579][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.22.20:579][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.04.17-21.22.20:579][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.04.17-21.22.20:581][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.04.17-21.22.20:581][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.04.17-21.22.20:581][778]LogInit: FAudioDevice initialized with ID 20.
+[2025.04.17-21.22.20:581][778]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main_P'.
+[2025.04.17-21.22.20:581][778]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.17-21.22.20:584][778]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.22.20:585][778]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.22.20
+[2025.04.17-21.22.20:585][778]LogWorld: Bringing up level for play took: 0.000651
+[2025.04.17-21.22.20:587][778]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.04.17-21.22.20:587][778]PIE: Server logged in
+[2025.04.17-21.22.20:589][778]PIE: Play in editor total start time 0.101 seconds.
+[2025.04.17-21.22.24:488][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.22.24:488][935]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.22.24:488][935]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.22.24:488][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.22.24:492][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.22.24:494][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.22.24:506][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.22.24:507][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.17-21.22.24:507][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.17-21.22.24:509][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.17-21.22.24:512][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.22.24:528][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.17-21.22.25:268][942]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.04.17-21.22.46:059][184]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.22.52:277][550]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_20.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_20.exp
+[2025.04.17-21.22.52:367][551]LogClass: UPackage /Script/aKMcontrol Reload.
+[2025.04.17-21.22.52:367][551]LogClass: UClass SourceActor Reload.
+[2025.04.17-21.22.52:368][551]LogClass: Could not find existing class SourceActor in package /Script/aKMcontrol for reload, assuming new or modified class
+[2025.04.17-21.22.52:368][551]LogClass: Function GetName is new or belongs to a modified class.
+[2025.04.17-21.22.52:373][551]Re-instancing SourceActor after reload.
+[2025.04.17-21.22.52:508][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.17-21.22.52:896][552]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged, 1 function remapped
+[2025.04.17-21.22.52:896][552]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.17-21.22.57:551][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-21.22.57:657][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.17-21.22.57:665][794]LogSavePackage: Moving output files for package: /Game/LAPLANQUE_ND/Maps/Main_P
+[2025.04.17-21.22.57:665][794]LogSavePackage: Moving '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Saved/Main_P9B54C8D243394CE84A3CB0A445A6E0DC.tmp' to '../../../../../../Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Maps/Main_P.umap'
+[2025.04.17-21.22.57:671][794]LogFileHelpers: Saving map 'Main_P' took 0.072
+[2025.04.17-21.22.57:675][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.730 ms (total: 1.96 sec)
+[2025.04.17-21.22.57:732][794]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-21.22.57:732][794]LogContentValidation: Enabled validators:
+[2025.04.17-21.22.57:732][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-21.22.57:732][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-21.22.57:732][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-21.22.57:732][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-21.22.57:732][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-21.22.57:732][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-21.22.57:732][794]AssetCheck: /Game/LAPLANQUE_ND/Maps/Main_P Validating asset
+[2025.04.17-21.22.58:379][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.22.58:385][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.22.58:385][828]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.22.58:386][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000897s)
+[2025.04.17-21.22.58:386][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000923s)
+[2025.04.17-21.22.58:415][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.17-21.22.58:421][828]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.22.58:422][828]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2025.04.17-21.22.58:422][828]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.22.58:422][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.22.58:422][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.22.58:422][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.22.58:422][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.22.58:422][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.22.58:425][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.22.58:455][828]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.22.58:455][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.22.58:455][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.22.58:455][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.22.58:456][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.04.17-21.22.58:456][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.04.17-21.22.58:458][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.04.17-21.22.58:458][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.04.17-21.22.58:458][828]LogInit: FAudioDevice initialized with ID 21.
+[2025.04.17-21.22.58:458][828]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main_P'.
+[2025.04.17-21.22.58:459][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.17-21.22.58:461][828]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.22.58:462][828]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.22.58
+[2025.04.17-21.22.58:462][828]LogWorld: Bringing up level for play took: 0.000560
+[2025.04.17-21.22.58:463][828]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.04.17-21.22.58:465][828]PIE: Server logged in
+[2025.04.17-21.22.58:465][828]PIE: Play in editor total start time 0.082 seconds.
+[2025.04.17-21.23.08:355][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.23.08:355][341]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.23.08:355][341]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.23.08:355][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.23.08:358][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.23.08:360][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.23.08:371][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.23.08:371][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.17-21.23.08:372][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.17-21.23.08:374][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.17-21.23.08:378][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.23.08:379][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-21.23.09:041][348]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.04.17-21.25.10:149][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6653.227539
+[2025.04.17-21.25.10:318][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.25.10:318][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6653.381348, Update Interval: 314.872284
+[2025.04.17-21.29.40:070][757]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.29.44:939][ 48]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_21.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_21.exp
+[2025.04.17-21.29.45:162][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.17-21.29.45:514][ 50]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.29.45:514][ 50]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.29.47:294][ 99]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.29.47:299][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.29.47:299][ 99]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.29.47:300][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000973s)
+[2025.04.17-21.29.47:300][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.001004s)
+[2025.04.17-21.29.47:357][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.17-21.29.47:359][ 99]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.29.47:361][ 99]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2025.04.17-21.29.47:362][ 99]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.29.47:362][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.29.47:362][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.29.47:362][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.29.47:362][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.29.47:362][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.29.47:364][ 99]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.29.47:396][ 99]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.29.47:396][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.29.47:396][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.29.47:396][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.29.47:396][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.04.17-21.29.47:396][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.04.17-21.29.47:399][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.04.17-21.29.47:399][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.04.17-21.29.47:399][ 99]LogInit: FAudioDevice initialized with ID 22.
+[2025.04.17-21.29.47:399][ 99]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main_P'.
+[2025.04.17-21.29.47:399][ 99]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.04.17-21.29.47:402][ 99]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.29.47:403][ 99]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.29.47
+[2025.04.17-21.29.47:403][ 99]LogWorld: Bringing up level for play took: 0.000664
+[2025.04.17-21.29.47:405][ 99]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.04.17-21.29.47:406][ 99]PIE: Server logged in
+[2025.04.17-21.29.47:407][ 99]PIE: Play in editor total start time 0.108 seconds.
+[2025.04.17-21.30.14:178][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.30.14:178][518]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.30.14:178][518]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.30.14:178][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.30.14:182][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.30.14:184][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.30.14:199][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.30.14:199][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.04.17-21.30.14:199][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.04.17-21.30.14:201][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.04.17-21.30.14:204][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.30.14:205][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.17-21.30.14:999][525]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.04.17-21.31.12:851][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7015.823730
+[2025.04.17-21.31.12:984][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.31.12:984][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7015.939941, Update Interval: 301.426422
+[2025.04.17-21.36.05:406][490]LogDerivedDataCache: C:/Users/nicol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.17-21.37.00:041][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7362.942383
+[2025.04.17-21.37.00:208][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.37.00:208][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7363.092773, Update Interval: 308.366333
+[2025.04.17-21.39.55:808][284]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.40.00:571][569]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_22.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_22.exp
+[2025.04.17-21.40.00:789][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.17-21.40.01:139][571]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.40.01:139][571]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.40.04:658][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.40.04:662][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.40.04:663][736]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.40.04:664][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2025.04.17-21.40.04:664][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000959s)
+[2025.04.17-21.40.04:715][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.17-21.40.04:718][736]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.40.04:720][736]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2025.04.17-21.40.04:720][736]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.40.04:720][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.40.04:720][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.40.04:720][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.40.04:720][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.40.04:720][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.40.04:722][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.40.04:756][736]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.40.04:756][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.40.04:756][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.40.04:756][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.40.04:757][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.04.17-21.40.04:757][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.04.17-21.40.04:758][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.04.17-21.40.04:758][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.04.17-21.40.04:758][736]LogInit: FAudioDevice initialized with ID 23.
+[2025.04.17-21.40.04:758][736]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_P'.
+[2025.04.17-21.40.04:758][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.04.17-21.40.04:761][736]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.40.04:762][736]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.40.04
+[2025.04.17-21.40.04:762][736]LogWorld: Bringing up level for play took: 0.000661
+[2025.04.17-21.40.04:764][736]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.04.17-21.40.04:765][736]PIE: Server logged in
+[2025.04.17-21.40.04:766][736]PIE: Play in editor total start time 0.104 seconds.
+[2025.04.17-21.40.15:788][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.40.15:788][304]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.40.15:788][304]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.40.15:789][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.40.15:792][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.40.15:795][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.40.15:812][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.40.15:818][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.04.17-21.40.15:818][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.04.17-21.40.15:821][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.04.17-21.40.15:824][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.40.15:835][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.17-21.40.16:556][311]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.04.17-21.43.03:412][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7726.261230
+[2025.04.17-21.43.03:545][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.43.03:545][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7726.376953, Update Interval: 318.062073
+[2025.04.17-21.47.21:012][705]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.47.25:880][996]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_23.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_23.exp
+[2025.04.17-21.47.26:083][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.17-21.47.26:438][998]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.47.26:438][998]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.47.28:736][ 87]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.47.28:741][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.47.28:741][ 87]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.47.28:742][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2025.04.17-21.47.28:742][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000939s)
+[2025.04.17-21.47.28:793][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.17-21.47.28:797][ 87]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.47.28:799][ 87]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2025.04.17-21.47.28:800][ 87]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.47.28:800][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.47.28:800][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.47.28:800][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.47.28:800][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.47.28:800][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.47.28:802][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.47.28:834][ 87]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.47.28:834][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.47.28:834][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.47.28:834][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.47.28:835][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.04.17-21.47.28:835][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.04.17-21.47.28:837][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.04.17-21.47.28:837][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.04.17-21.47.28:837][ 87]LogInit: FAudioDevice initialized with ID 24.
+[2025.04.17-21.47.28:837][ 87]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_P'.
+[2025.04.17-21.47.28:837][ 87]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.04.17-21.47.28:839][ 87]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.47.28:840][ 87]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.47.28
+[2025.04.17-21.47.28:840][ 87]LogWorld: Bringing up level for play took: 0.000680
+[2025.04.17-21.47.28:842][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.04.17-21.47.28:843][ 87]PIE: Server logged in
+[2025.04.17-21.47.28:844][ 87]PIE: Play in editor total start time 0.104 seconds.
+[2025.04.17-21.47.51:598][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.47.51:598][303]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.47.51:598][303]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.47.51:598][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.47.51:602][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.47.51:605][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.47.51:616][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.47.51:618][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.04.17-21.47.51:618][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.04.17-21.47.51:620][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.04.17-21.47.51:623][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.47.51:642][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.17-21.47.52:458][310]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.04.17-21.49.07:848][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8090.686035
+[2025.04.17-21.49.07:997][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.49.07:997][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8090.818848, Update Interval: 310.342102
+[2025.04.17-21.53.28:066][420]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.53.32:461][682]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.04.17-21.53.32:461][682]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.04.17-21.55.09:626][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8452.407227
+[2025.04.17-21.55.09:777][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-21.55.09:777][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8452.541992, Update Interval: 345.393219
+[2025.04.17-21.55.13:898][742]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.17-21.55.17:349][948]LogLiveCoding: Display:    Creating library C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_24.lib and object C:\Users\nicol\Documents\aKMdev\akm-control\UE\aKMcontrol\Binaries\Win64\UnrealEditor-aKMcontrol.patch_24.exp
+[2025.04.17-21.55.17:568][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.17-21.55.17:921][950]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.04.17-21.55.17:921][950]LogLiveCoding: Display: Live coding succeeded
+[2025.04.17-21.55.20:265][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-21.55.20:272][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-21.55.20:272][ 47]LogPlayLevel: Creating play world package: /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.55.20:273][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2025.04.17-21.55.20:273][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LAPLANQUE_ND/Maps/Main_P.Main_P to /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P (0.000960s)
+[2025.04.17-21.55.20:324][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.17-21.55.20:327][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_P
+[2025.04.17-21.55.20:328][ 47]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2025.04.17-21.55.20:329][ 47]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-21.55.20:329][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-21.55.20:329][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-21.55.20:329][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-21.55.20:329][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-21.55.20:329][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-21.55.20:331][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-21.55.20:364][ 47]LogAudioMixer: Display: Using Audio Hardware Device BenQ PD2705U (NVIDIA High Definition Audio)
+[2025.04.17-21.55.20:364][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-21.55.20:364][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-21.55.20:364][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-21.55.20:364][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.04.17-21.55.20:364][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.04.17-21.55.20:366][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.04.17-21.55.20:366][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.04.17-21.55.20:366][ 47]LogInit: FAudioDevice initialized with ID 25.
+[2025.04.17-21.55.20:366][ 47]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_P'.
+[2025.04.17-21.55.20:366][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.04.17-21.55.20:370][ 47]LogLoad: Game class is 'GameModeBase'
+[2025.04.17-21.55.20:370][ 47]LogWorld: Bringing World /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P.Main_P up for play (max tick rate 0) at 2025.04.17-23.55.20
+[2025.04.17-21.55.20:370][ 47]LogWorld: Bringing up level for play took: 0.000638
+[2025.04.17-21.55.20:372][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.04.17-21.55.20:374][ 47]PIE: Server logged in
+[2025.04.17-21.55.20:375][ 47]PIE: Play in editor total start time 0.103 seconds.
+[2025.04.17-21.56.00:556][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.56.00:556][247]LogWorld: BeginTearingDown for /Game/LAPLANQUE_ND/Maps/UEDPIE_0_Main_P
+[2025.04.17-21.56.00:556][247]LogWorld: UWorld::CleanupWorld for Main_P, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-21.56.00:556][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.56.00:560][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-21.56.00:562][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-21.56.00:574][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-21.56.00:574][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.04.17-21.56.00:574][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.04.17-21.56.00:576][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.04.17-21.56.00:580][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-21.56.00:582][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.17-21.56.01:414][254]LogPlayLevel: Display: Destroying online subsystem :Context_32
