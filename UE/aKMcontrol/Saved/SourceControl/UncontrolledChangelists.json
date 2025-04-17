@@ -6,7 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Maps/Main_P.umap",
-				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/MaterialsLibrary/Debug/M_DebugGeometry.uasset"
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/MaterialsLibrary/Debug/M_DebugGeometry.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Blueprints/UI/BP_ImGUI.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Inputs/IMC_Controls.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Inputs/Actions/IA_ImGUI_ToggleInput.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Blueprints/BP_Source.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/MaterialsLibrary/Debug/MasterMaterials/M_DebugGeometry.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/MaterialsLibrary/Debug/MI_DebugSource2.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/MaterialsLibrary/Debug/MI_DebugSource1.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Inputs/IA_ImGUIToggleInput.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/Inputs/IA_ImGUI_ToggleInput.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/TestCanvasRT.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/WBP_test.uasset",
+				"C:/Users/nicol/Documents/aKMdev/akm-control/UE/aKMcontrol/Content/LAPLANQUE_ND/BP_CameraMover.uasset"
 			]
 		}
 	]

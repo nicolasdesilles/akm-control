@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\source\\akmcontrol\\imguiactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\akmcontroleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\akmcontrol\\definitions.akmcontrol.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\source\\akmcontrol\\imguiactor.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\imgui\\public\\imguimodule.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\imgui\\public\\imguidelegates.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\imgui\\public\\imguimoduleproperties.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\imgui\\public\\imguitexturehandle.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\thirdparty\\imguilibrary\\include\\imgui.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\plugins\\imgui\\source\\thirdparty\\imguilibrary\\include\\imconfig.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\assert.h",
+            "c:\\users\\nicol\\documents\\akmdev\\akm-control\\ue\\akmcontrol\\intermediate\\build\\win64\\unrealeditor\\inc\\akmcontrol\\uht\\imguiactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,4 +1,5 @@
-THe UE Project has the following plugins dependencies:
+The UE Project has the following plugins dependencies:
 
-- ImGUI Plugin by VesCode: https://github.com/VesCodes/ImGui?tab=readme-ov-file
-- 
+- Unreal ImGUI Plugin by IDI-Systems: https://github.com/IDI-Systems/UnrealImGui
+
+This project uses the Geist font: https://vercel.com/font
