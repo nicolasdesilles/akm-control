@@ -25,6 +25,11 @@
 *.a
 *.lib
 
+#Other C++ compilation files
+*.exp
+*.pdb
+
+
 # Executables
 *.exe
 *.out
